@@ -14,7 +14,7 @@
 function js(data){
     return new promise ((resolve, reject)=>{
         setTimeout(()=>{
-            console.log("data", data);
+            console.log("data"+ data);
             resolve("success");
         }, 3000);
     });
