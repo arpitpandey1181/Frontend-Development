@@ -1,4 +1,4 @@
-// function example (){
+ // function example (){
 //     return new Promise ((resolve,reject) => {
 //         setTimeout(() =>{
 //             console.log("hello");
