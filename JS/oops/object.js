@@ -6,7 +6,7 @@ let person = {
 
     // method
     getfunction: function() {
-        return `The name of the person is ${person.first_Name} ${this.last_Name}`;
+        return `The name of the person is ${this.first_Name} ${this.last_Name}`;
     },
 
     // OBJECT WITHIN OBJECT
